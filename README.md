@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b1529cc-49d9-4200-882a-63f7baa7779c/deploy-status)](https://app.netlify.com/sites/jade-bunny-4a383a/deploys)
+
 ![Netlify Next.js Blog Template designed by Bejamas](https://user-images.githubusercontent.com/43764894/223762618-62742b4e-9424-44a7-8e85-9f7e4e19db54.png)
 
 
